@@ -1,27 +1,10 @@
 ---
-layout: about
-title: about
-permalink: /
-<!-- description: <a href="#">MIT</a>. kapilv@mit.edu. -->
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  <!-- address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p> -->
+I am a third year CS PhD in the MIT [Data Systems Group](http://dsg.csail.mit.edu/), where I am advised by [Prof. Tim Kraska](http://people.csail.mit.edu/kraska/). My research focuses on applying machine learning to database systems.
 
-<!-- news: true  # includes a list of news items -->
-<!-- selected_papers: true # includes a list of papers marked as "selected={true}" -->
-<!-- social: true  # includes social icons at the bottom of the page -->
----
+I collaborate with [Prof. Michael Mitzenmacher](https://www.eecs.harvard.edu/~michaelm/) on learned data structures. I interned at Microsoft Research with the [DMX](https://www.microsoft.com/en-us/research/group/data-management-exploration-and-mining-dmx/) group where I worked on learned query optimisation. Prior to MIT, I was an undergraduate at IIT Bombay where I worked with [Prof. Sudarshan](https://www.cse.iitb.ac.in/~sudarsha/). 
 
-I am a third year CS PhD in the MIT [Data Systems Group](http://dsg.csail.mit.edu/){:target="\_blank"}, where I am advised by [Prof. Tim Kraska](http://people.csail.mit.edu/kraska/){:target="\_blank"}. My research focuses on applying machine learning to database systems.
-
-I collaborate with [Prof. Michael Mitzenmacher](https://www.eecs.harvard.edu/~michaelm/){:target="\_blank"} on learned data structures. I interned at Microsoft Research with the [DMX](https://www.microsoft.com/en-us/research/group/data-management-exploration-and-mining-dmx/){:target="\_blank"} group where I worked on learned query optimisation. Prior to MIT, I was an undergraduate at IIT Bombay where I worked with [Prof. Sudarshan](https://www.cse.iitb.ac.in/~sudarsha/){:target="\_blank"}. 
-
-\[[CV](https://kapilvaidya24.github.io/cv.pdf){:target="\_blank"}\] \[[Google Scholar](https://scholar.google.com/citations?user=AsvFQLkAAAAJ&hl=en&oi=ao){:target="\_blank"}\]
+\[[CV](https://kapilvaidya24.github.io/cv.pdf)\] \[[Google Scholar](https://scholar.google.com/citations?user=AsvFQLkAAAAJ&hl=en&oi=ao)\]
  
 
 
