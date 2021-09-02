@@ -1,4 +1,14 @@
 ---
+layout: default
+title: Kapil Vaidya
+description: stuff
+---
+
+# Kapil Vaidya
+<img src="/static/prof_pic.jpg" alt="Jialin" style="width: 180px; height: 192px; float: right; margin: 10px"/>
+<!-- ![Kapil](/static/prof_pic.jpg) -->
+
+---
 
 I am a third year CS PhD in the MIT [Data Systems Group](http://dsg.csail.mit.edu/), where I am advised by [Prof. Tim Kraska](http://people.csail.mit.edu/kraska/). My research focuses on applying machine learning to database systems.
 
