@@ -5,8 +5,8 @@ description: stuff
 ---
 
 # Kapil Vaidya
-<img src="/static/prof_pic.jpg" alt="Jialin" style="width: 170px; height: 192px; float: right; margin: 10px"/>
-<!-- ![Kapil](/static/prof_pic.jpg) -->
+<img src="/static/prof_pic.jpg" alt="Kapil" style="width: 170px; height: 192px; float: right; margin: 10px"/>
+<!-- ![Kapil](/static/PXL_20210829_150802540.PORTRAIT.jpg) -->
 
 ---
 
