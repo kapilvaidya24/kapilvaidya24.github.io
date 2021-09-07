@@ -89,8 +89,11 @@ ___
 
 ## Contact
 
+You can contact me by sending a mail to kapilv@mit.edu.
 
-kapilv@mit.edu
+\[[Github](https://github.com/kapilvaidya24)\] \[[FB](https://www.facebook.com/kapil.vaidya.39/)\]
+
+
 
 
 
