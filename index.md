@@ -33,7 +33,7 @@ I also collaborate with [Prof. Michael Mitzenmacher](https://www.eecs.harvard.ed
 **Kapil Vaidya**, Anshuman Dutt, Vivek Narasayya and Surajit Chaudhari. <br>
 *Preprint*.
 
-- [Partitioned Learned Bloom Filter](https://openreview.net/forum?id=6BRLOfrMhW).<br>
+- [Partitioned Learned Bloom Filter](https://arxiv.org/abs/2006.03176).<br>
  **Kapil Vaidya**, Eric Knorr, Michael Mitzenmacher and Tim Kraska. <br>
 *ICLR 2021*.
 
