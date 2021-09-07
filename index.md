@@ -12,7 +12,7 @@ description: stuff
 
 I am a third year CS PhD in the MIT [Data Systems Group](http://dsg.csail.mit.edu/), where I work on applying machine learning to database systems. I am advised by [Prof. Tim Kraska](http://people.csail.mit.edu/kraska/). 
 
-I work with [Prof. Michael Mitzenmacher](https://www.eecs.harvard.edu/~michaelm/) on learned data structures specifically learned filters. I have previosuly worked at Microsoft Research with Andhumann Dutt, VIvek Narasayya and Surajit Chaudhari from the [DMX](https://www.microsoft.com/en-us/research/group/data-management-exploration-and-mining-dmx/) group on learned query optimisation. I completed my bachelors in Computer Science at IIT Bombay where I worked with [Prof. Sudarshan](https://www.cse.iitb.ac.in/~sudarsha/). 
+I work with [Prof. Michael Mitzenmacher](https://www.eecs.harvard.edu/~michaelm/) on learned data structures specifically learned filters. I have previosuly interned at Microsoft Research with Andhumann Dutt, VIvek Narasayya and Surajit Chaudhari from the [DMX](https://www.microsoft.com/en-us/research/group/data-management-exploration-and-mining-dmx/) group on learned query optimisation. I completed my bachelors in Computer Science at IIT Bombay where I worked with [Prof. Sudarshan](https://www.cse.iitb.ac.in/~sudarsha/). 
 
 \[[CV](https://kapilvaidya24.github.io/cv.pdf)\] \[[Google Scholar](https://scholar.google.com/citations?user=AsvFQLkAAAAJ&hl=en&oi=ao)\]
  
