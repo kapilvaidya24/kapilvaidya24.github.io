@@ -37,7 +37,7 @@ I also collaborate with [Prof. Michael Mitzenmacher](https://www.eecs.harvard.ed
  **Kapil Vaidya**, Eric Knorr, Michael Mitzenmacher and Tim Kraska. <br>
 *ICLR 2021*.
 
-- [The Case for a Learned Sorting Algorithm.](https://dl.acm.org/doi/10.1145/3318464.3389752) \[[news](https://blog.acolyer.org/2020/10/19/the-case-for-a-learned-sorting-algorithm/)\]<br>
+- [The Case for a Learned Sorting Algorithm.](https://dl.acm.org/doi/10.1145/3318464.3389752) \[[news](https://blog.acolyer.org/2020/10/19/the-case-for-a-learned-sorting-algorithm/)\] \[[code](https://github.com/learnedsystems/LearnedSort)\] \[[HackerNews](https://news.ycombinator.com/item?id=24823611)\] \[[Reddit](https://www.reddit.com/r/programming/comments/je87ky/the_case_for_a_learned_sorting_algorithm/)\] <br>
  **Kapil Vaidya\***, Ani Kristo\*, Ugur Cetintemel,  Sanchit  Misra,  and  Tim  Kraska. <br>
 *SIGMOD 2020*.
 
