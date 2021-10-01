@@ -31,7 +31,7 @@ I also collaborate with [Prof. Michael Mitzenmacher](https://www.eecs.harvard.ed
 
 - [Leveraging Query Logs and Machine Learning for Parametric Query Optimization].<br>
 **Kapil Vaidya**, Anshuman Dutt, Vivek Narasayya and Surajit Chaudhari. <br>
-*to appear at VLDB '22*.
+*to appear at VLDB 2022*.
 
 - [Partitioned Learned Bloom Filter](https://openreview.net/forum?id=6BRLOfrMhW).<br>
  **Kapil Vaidya**, Eric Knorr, Michael Mitzenmacher and Tim Kraska. <br>
