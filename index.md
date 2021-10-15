@@ -5,9 +5,9 @@ description: stuff
 ---
 
 # Kapil Vaidya
-<img src="/static/PXL_20210829_150759583.PORTRAIT.jpg" alt="Kapil" style="width: 200px; height: 236px; float: right; margin: 10px"/>
+<img src="/static/acadia.png" alt="Kapil" style="width: 200px; height: 236px; float: right; margin: 10px"/>
 <!-- ![Kapil](/static/PXL_20210829_150802540.PORTRAIT.jpg) -->
-
+<!-- Screen Shot 2021-10-10 at 11.17.23 PM.png -->
 ---
 
 I am a third year CS PhD in the MIT [Data Systems Group](http://dsg.csail.mit.edu/), where I work on applying machine learning to database systems. I am advised by [Prof. Tim Kraska](http://people.csail.mit.edu/kraska/). 
