@@ -5,7 +5,7 @@ description: stuff
 ---
 
 # Kapil Vaidya
-<img src="/static/acadia.png" alt="Kapil" style="width: 236px; height: 236px; float: right; margin: 10px"/>
+<img src="/static/acadia.png" alt="Kapil" style="width: 276px; height: 236px; float: right; margin: 10px"/>
 <!-- ![Kapil](/static/PXL_20210829_150802540.PORTRAIT.jpg) -->
 <!-- Screen Shot 2021-10-10 at 11.17.23 PM.png -->
 ---
