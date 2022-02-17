@@ -29,7 +29,7 @@ I also collaborate with [Prof. Michael Mitzenmacher](https://www.eecs.harvard.ed
  **Kapil Vaidya**, Eric Knorr, Subarna Chatterjee, Andreas Kipf, Stratos Idreos, Michael Mitzenmacher and Tim Kraska. <br>
 *Preprint*.
 
-- [Leveraging Query Logs and Machine Learning for Parametric Query Optimization].<br>
+- [Leveraging Query Logs and Machine Learning for Parametric Query Optimization](https://dl.acm.org/doi/pdf/10.14778/3494124.3494126).<br>
 **Kapil Vaidya**, Anshuman Dutt, Vivek Narasayya and Surajit Chaudhari. <br>
 *to appear at VLDB 2022*.
 
