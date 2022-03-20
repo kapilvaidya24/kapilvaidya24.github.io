@@ -27,11 +27,11 @@ I also collaborate with [Prof. Michael Mitzenmacher](https://www.eecs.harvard.ed
 
 - [SNARF: A Learning-Enhanced Range Filter].<br>
  **Kapil Vaidya**, Eric Knorr, Subarna Chatterjee, Andreas Kipf, Stratos Idreos, Michael Mitzenmacher and Tim Kraska. <br>
-*Preprint*.
+*VLDB 2022*.
 
 - [Leveraging Query Logs and Machine Learning for Parametric Query Optimization](https://dl.acm.org/doi/pdf/10.14778/3494124.3494126).<br>
 **Kapil Vaidya**, Anshuman Dutt, Vivek Narasayya and Surajit Chaudhari. <br>
-*to appear at VLDB 2022*.
+*VLDB 2022*.
 
 - [Partitioned Learned Bloom Filter](https://openreview.net/forum?id=6BRLOfrMhW).<br>
  **Kapil Vaidya**, Eric Knorr, Michael Mitzenmacher and Tim Kraska. <br>
