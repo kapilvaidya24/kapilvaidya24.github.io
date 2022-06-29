@@ -33,7 +33,7 @@ I also collaborate with [Prof. Michael Mitzenmacher](https://www.eecs.harvard.ed
 **Kapil Vaidya**, Anshuman Dutt, Vivek Narasayya and Surajit Chaudhari. <br>
 *VLDB 2022*.
 
-- [Partitioned Learned Bloom Filter](https://openreview.net/forum?id=6BRLOfrMhW). \[[Quanta Magazine](https://www.quantamagazine.org/machine-learning-reimagines-the-building-blocks-of-computing-20220315/)]<br>
+- [Partitioned Learned Bloom Filter](https://openreview.net/forum?id=6BRLOfrMhW). \[[Quanta Magazine](https://www.quantamagazine.org/machine-learning-reimagines-the-building-blocks-of-computing-20220315/)]\[[code](https://github.com/kapilvaidya24/PLBF)\] <br>
  **Kapil Vaidya**, Eric Knorr, Michael Mitzenmacher and Tim Kraska. <br>
 *ICLR 2021*.
 
