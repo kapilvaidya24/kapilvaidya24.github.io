@@ -25,7 +25,7 @@ I also collaborate with [Prof. Michael Mitzenmacher](https://www.eecs.harvard.ed
 
 ## Publications
 
-- [Can Models Replace Hash Functions?]([https://dl.acm.org/doi/10.14778/3529337.3529347](https://drive.google.com/file/d/1ZEn1Q11pfoejiXIe3HxH_ILSxdeVvcgy/view?usp=sharing)).<br>
+- [Can Models Replace Hash Functions?](https://drive.google.com/file/d/1ZEn1Q11pfoejiXIe3HxH_ILSxdeVvcgy/view?usp=sharing).<br>
  **Kapil Vaidya\***, Ibrahim Sabek\*, Dominik Horn, Andreas Kipf, Michael Mitzenmacher and Tim Kraska. <br>
 *in submission at VLDB 2023*.
 
