@@ -29,7 +29,7 @@ I also collaborate with [Prof. Michael Mitzenmacher](https://www.eecs.harvard.ed
  **Kapil Vaidya\***, Ibrahim Sabek\*, Dominik Horn, Andreas Kipf, Michael Mitzenmacher and Tim Kraska. <br>
 *in submission at VLDB 2023*.
 
-- [SNARF: A Learning-Enhanced Range Filter](https://dl.acm.org/doi/10.14778/3529337.3529347).<br>
+- [SNARF: A Learning-Enhanced Range Filter](https://dl.acm.org/doi/10.14778/3529337.3529347).\[[code](https://github.com/kapilvaidya24/SNARF)\]<br>
  **Kapil Vaidya**,  Subarna Chatterjee, Eric Knorr, Stratos Idreos, Michael Mitzenmacher and Tim Kraska. <br>
 *VLDB 2022*.
 
