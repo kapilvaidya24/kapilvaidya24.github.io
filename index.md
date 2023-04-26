@@ -93,7 +93,7 @@ ___
 
 ## Contact
 
-You can contact me by sending a mail to kapilv@mit.edu.
+You can contact me by sending a mail to kapilvaidya24@gmail.com.
 
 \[[Github](https://github.com/kapilvaidya24)\] \[[FB](https://www.facebook.com/kapil.vaidya.39/)\]
 
