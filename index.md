@@ -25,9 +25,9 @@ I also collaborate with [Prof. Michael Mitzenmacher](https://www.eecs.harvard.ed
 
 ## Publications
 
-- [Can Models Replace Hash Functions?](https://drive.google.com/file/d/1ZEn1Q11pfoejiXIe3HxH_ILSxdeVvcgy/view?usp=sharing).<br>
+- [Can Models Replace Hash Functions?](https://drive.google.com/file/d/1ZEn1Q11pfoejiXIe3HxH_ILSxdeVvcgy/view?usp=sharing).\[[news](https://news.mit.edu/2023/new-method-hash-function-online-databases-0313)]<br>
  **Kapil Vaidya\***, Ibrahim Sabek\*, Dominik Horn, Andreas Kipf, Michael Mitzenmacher and Tim Kraska. <br>
-*in submission at VLDB 2023*.
+*VLDB 2023*.
 
 - [SNARF: A Learning-Enhanced Range Filter](https://dl.acm.org/doi/10.14778/3529337.3529347).\[[code](https://github.com/kapilvaidya24/SNARF)\]<br>
  **Kapil Vaidya**,  Subarna Chatterjee, Eric Knorr, Stratos Idreos, Michael Mitzenmacher and Tim Kraska. <br>
