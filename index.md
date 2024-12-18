@@ -10,20 +10,29 @@ description: stuff
 <!-- Screen Shot 2021-10-10 at 11.17.23 PM.png -->
 ---
 
-I am a fourth year CS PhD in the MIT [Data Systems Group](http://dsg.csail.mit.edu/), where I work on applying machine learning to database systems. I am advised by [Prof. Tim Kraska](http://people.csail.mit.edu/kraska/). 
+I am currently an applied scientist at AWS, where I work on NL2SQL in Amazon Redshift. I was previously a CS PhD in the MIT [Data Systems Group](http://dsg.csail.mit.edu/), where I work on applying machine learning to database systems. I am advised by [Prof. Tim Kraska](http://people.csail.mit.edu/kraska/). 
 
-I also collaborate with [Prof. Michael Mitzenmacher](https://www.eecs.harvard.edu/~michaelm/) on learned filters. I have interned at Microsoft Research with [Anshuman Dutt](https://www.microsoft.com/en-us/research/people/andut/), [Vivek Narasayya](https://www.microsoft.com/en-us/research/people/viveknar/) and [Surajit Chaudhuri](https://www.microsoft.com/en-us/research/people/surajitc/) from the [DMX](https://www.microsoft.com/en-us/research/group/data-management-exploration-and-mining-dmx/) group on learned query optimisation. I completed my bachelors in Computer Science at IIT Bombay where I worked with [Prof. Sudarshan](https://www.cse.iitb.ac.in/~sudarsha/). 
+I collaborated with [Prof. Michael Mitzenmacher](https://www.eecs.harvard.edu/~michaelm/) on learned filters. I have previously interned at Microsoft Research with [Anshuman Dutt](https://www.microsoft.com/en-us/research/people/andut/), [Vivek Narasayya](https://www.microsoft.com/en-us/research/people/viveknar/) and [Surajit Chaudhuri](https://www.microsoft.com/en-us/research/people/surajitc/) from the [DMX](https://www.microsoft.com/en-us/research/group/data-management-exploration-and-mining-dmx/) group on learned query optimisation. I completed my bachelors in Computer Science at IIT Bombay where I worked with [Prof. Sudarshan](https://www.cse.iitb.ac.in/~sudarsha/). 
 
 \[[CV](https://kapilvaidya24.github.io/cv.pdf)\] \[[Google Scholar](https://scholar.google.com/citations?user=AsvFQLkAAAAJ&hl=en&oi=ao)\]
  
 
-
-
-
-
 ---
 
 ## Publications
+
+- [Vista: Machine Learning based Database Performance
+Troubleshooting Framework in Amazon RDS](https://dl.acm.org/doi/pdf/10.1145/3698038.3698519).<br>
+ Vikramank Singh, Zhao Song, **Kapil Vaidya**, Balakrishnan Narayanaswamy and Tim Kraska. <br>
+*SoCC 2024*.
+
+- [Why TPC Is Not Enough: An Analysis of the Amazon Redshift Flee](https://assets.amazon.science/24/3b/04b31ef64c83acf98fe3fdca9107/why-tpc-is-not-enough-an-analysis-of-the-amazon-redshift-fleet.pdf).<br>
+ Alexander van Renen, Dominik Horn, Pascal Pfeil, **Kapil Vaidya**, Wenjian Dong, Zhengchun Liu, Gaurav Saxena, Andreas Kipf , Balakrishnan Narayanaswamy and Tim Kraska. <br>
+*VLDB 2024*.
+
+- [Panda: Performance debugging for databases using LLM agents](https://www.amazon.science/publications/panda-performance-debugging-for-databases-using-llm-agents).<br>
+ Vikramank Singh, **Kapil Vaidya**, Vinayshekhar Bannihatti Kumar, Sopan Khosla, Balakrishnan Narayanaswamy, Rashmi Gangadharaiah and Tim Kraska. <br>
+*CIDR 2024*.
 
 - [Can Models Replace Hash Functions?](https://drive.google.com/file/d/1ZEn1Q11pfoejiXIe3HxH_ILSxdeVvcgy/view?usp=sharing).\[[news](https://news.mit.edu/2023/new-method-hash-function-online-databases-0313)]<br>
  **Kapil Vaidya\***, Ibrahim Sabek\*, Dominik Horn, Andreas Kipf, Michael Mitzenmacher and Tim Kraska. <br>
